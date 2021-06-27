@@ -14,7 +14,7 @@ Circle_width = 15
 Cross_width = 25
 Space = Square_size//4
 
-#Colouring
+#Colouring for Interface
 Red_colour = (250, 0, 0)
 Bg_colour = (20, 150, 150)
 Line_colour = (153, 185, 185)
